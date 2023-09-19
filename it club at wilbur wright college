@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>IT Club at Wilbur Wright College</title>
+    </head>
+    <body>
+        <h1>IT Club at Wilbur Wright College</h1>
+        <p>Thank you for your interest in joining the IT Club at Wilbur Wright College, one of the City Colleges of Chicago. Our club meets on Thursdays from 1-3pm in room L-125.</p>
+        <h2>Join the IT Club</h2>
+        <p>NOTE: This form is not actually functional. It is included in my page as a demonstration of forms in HTML.</p>
+        
+        <form method="post" action="http://www.rebol.com/cgi-bin/test-cgi.cgi">
+            <label for="studentName">Student Name:</label>
+  <input type="text" id="studentName" name="studentName">
+            
+  <label for="email">Email address:</label>
+  <input type="email" id="email" name="email"><br><br>
+
+  <label for="phone">Phone number:</label>
+  <input type="tel" id="phone" name="phone"><br><br>
+
+  <label for="campus">Campus:</label>
+  <select id="campus" name="campus">
+    <option value="Main Narragansett Campus">Main Narragansett Campus</option>
+    <option value="Humboldt Park Vocational Education Center">Humboldt Park Vocational Education Center</option>
+  </select><br><br>
+
+  <label>Major:</label>
+  <input type="radio" id="compsci" name="major" value="compsci">
+  <label for="compsci">Computer Science</label>
+  <input type="radio" id="cyber" name="major" value="cyber">
+  <label for="cyber">Cybersecurity</label>
+  <input type="radio" id="otherIT" name="major" value="otherIT">
+  <label for="otherIT">Other IT Major</label><br><br>
+
+  <label for="comments">Any comments?</label><br>
+  <textarea id="comments" name="comments" cols="30" rows="4"></textarea><br><br>
+
+  <label for="mailinglist">E-mail me about IT Club events:</label>
+  <input type="checkbox" id="mailinglist" name="mailinglist" checked="checked"><br><br>
+  <input type="submit" value="Submit">
+</form>
+        
+        
+        
+        
+        
+    </body>
+</html>
 
