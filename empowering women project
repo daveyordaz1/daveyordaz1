@@ -23,6 +23,38 @@
         <li><em>Contemporary Leaders:</em> Dive into the stories of contemporary women leading the charge in artificial intelligence, software development, cybersecurity, and more. Their insights and leadership are shaping the tech landscape.</li>
          </ul>
 
+        <h3>Timeline of Achievements: Women in Computing</h3> 
+        
+        <table>
+            <tr>
+            <td>1843</td>	<td>Ada Lovelace, an English mathematician and writer, collaborates with Charles Babbage on his proposed mechanical general-purpose computer, the Analytical Engine. She is recognized as the world's first computer programmer for her notes on the machine's potential capabilities. </td> </tr>
+          <tr>  <td>1893</td> <td>Helen Augusta Blanchard invents the "Apgar System," a precursor to computerized medical diagnosis, which assigns numerical values to various aspects of a patient's health.</td> </tr>
+           <tr> <td>1944</td>	<td>Grace Hopper, a computer scientist and United States Navy Rear Admiral, develops the first compiler, known as the A-0 System. This innovation paves the way for high-level programming languages and modern software development.</td> </tr>
+           <tr> <td>1952</td>	<td>Kathleen "Kay" McNulty, along with a team of mathematicians, works on the Electronic Numerical Integrator and Computer (ENIAC) at the University of Pennsylvania. She becomes one of the first programmers for the ENIAC, one of the earliest general-purpose computers.</td></tr>
+           <tr> <td>1969</td>
+            <td>Barbara Liskov develops the Liskov Substitution Principle, a foundational concept in object-oriented programming that emphasizes the importance of subclassing without altering the correctness of the program.</td></tr>
+            <tr><td>1973</td><td>Frances Allen becomes the first woman to win the Turing Award, one of the most prestigious awards in computer science, for her pioneering contributions to compiler optimization and parallel programming.</td></tr>
+            <tr><td>1987</td><td>Anita Borg founds the Institute for Women and Technology (now known as AnitaB.org), aimed at promoting the advancement of women in computing and technology fields.</td></tr>
+            <tr><td>1991</td><td>Radia Perlman invents the Spanning Tree Protocol (STP), which becomes a fundamental building block in network technologies such as Ethernet.</td></tr>
+            
+             <tr><td>2006</td><td>Shafi Goldwasser becomes the first woman to win the Turing Award for her contributions to the fields of cryptography and complexity theory.</td></tr>
+            
+             <tr><td>2009</td><td>Marissa Mayer becomes the CEO of Yahoo, becoming one of the most prominent women in tech leadership.</td></tr>
+            
+             <tr><td>2013</td><td>Dr. Fei-Fei Li leads the development of ImageNet, a large-scale visual recognition dataset, and pushes forward the development of deep learning and computer vision technologies.</td></tr>
+            
+             <tr><td>2014</td><td>Dr. Frances E. Allen passes away, leaving behind a legacy as a pioneer in compiler optimization and a role model for women in computing.</td></tr>
+            
+             <tr><td>2020</td><td>Dr. Timnit Gebru, a leading AI ethics researcher, co-authors a groundbreaking paper on bias in AI and later advocates for diversity and transparency in the field.</td></tr>
+            
+             <tr><td>2021</td><td>Dr. Hessa Al Jaber is appointed as the Chief Digital Officer of the United Arab Emirates, exemplifying women's increasing roles in shaping digital transformations on a global scale.</td></tr>
+  
+        </table>   
+        
+        
+        <p>This timeline reflects just a fraction of the incredible achievements of women in computing. As we move forward, let's continue to celebrate their accomplishments and work towards a future where the contributions of all individuals are recognized and valued in the tech industry.</p>
+        
+        
         <h2>Professional Organizations</h2>
         
         <p>In the pursuit of fostering diversity and inclusion within the computing industry, two prominent organizations stand out: the National Center for Women &amp; Information Technology (NCWIT) and the ACM-W (Association for Computing Machinery - Women in Computing). These organizations are dedicated to empowering and supporting women at every stage of their computing careers.</p>
