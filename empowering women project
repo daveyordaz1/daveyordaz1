@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
+        <meta charset="UTF-8">  <link rel="stylesheet" type="text/css" href="style.css">
         <title>Empowering Women in Computing</title>
     </head>
     <body> 
@@ -66,7 +66,7 @@
 
   <p> Both NCWIT and ACM-W play crucial roles in promoting gender diversity and equality in computing. Their efforts are not only shaping the industry today but also paving the way for a more inclusive and innovative future. We encourage you to explore their programs and events, and consider getting involved to make a difference in the world of computing.</p>
 
-Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.
+        Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.
         
         
         
