@@ -1,0 +1,45 @@
+body {
+  background-color: #E7E6EF;
+  color: #264051;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+  padding: 0 2em; /* Padding on the right and left sides equivalent to two lowercase letter m's */
+}
+
+h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 250%;
+}
+
+h2 {
+  font-size: 200%;
+}
+
+h3 {
+  font-size: 150%;
+  border-bottom: 1px solid #264051; /* Border color same as body text */
+}
+
+img {
+  border: 1px solid #417779;
+}
+
+table {
+  width: 50%;
+  margin: auto;
+  border: 1px solid #f18390; /* Table border color */
+  border-collapse: collapse; /* Eliminate extra space between table cells */
+}
+
+
+tr, td {
+  border: 1px solid #f18390;
+}
+
+
+td {
+  padding: 0.5em;
+}
