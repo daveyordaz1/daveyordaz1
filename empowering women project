@@ -1,17 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">  <link rel="stylesheet" type="text/css" href="style.css">
+        <meta charset="UTF-8">   <link rel="stylesheet" type="text/css" href="style.css">
         <title>Empowering Women in Computing</title>
     </head>
     <body> 
+        <header>
         <h1>Empowering Women in Computing: Shaping the Future of Technology.
+          
         </h1>
+        </header>
+        
+       <article>
         <p>Welcome to our dedicated web site celebrating the remarkable achievements and contributions of women in the field of computing. In a world driven by technological innovation, it's imperative to recognize and amplify the voices and accomplishments of women who have paved the way for a more inclusive and diverse tech industry. Join us as we delve into the stories, challenges, and triumphs of women in computing.
-        </p>
+           </p> </article>
 
         <img src="https://brightspace.ccc.edu/content/enforced/251715-1243_31871/women-in-tech.jpg?_&d2lSessionVal=GP48bGQSBTGlKRwaM7FGlOxSk" alt="Group of women using laptop computers">
-
+	<section>
         <h2>Exploring Women's Contributions</h2>
 
       
@@ -26,6 +31,10 @@
         <h3>Timeline of Achievements: Women in Computing</h3> 
         
         <table>
+            <tr>
+            <td>Year</td>
+            <td>Notable Events</td>
+        </tr>
             <tr>
             <td>1843</td>	<td>Ada Lovelace, an English mathematician and writer, collaborates with Charles Babbage on his proposed mechanical general-purpose computer, the Analytical Engine. She is recognized as the world's first computer programmer for her notes on the machine's potential capabilities. </td> </tr>
           <tr>  <td>1893</td> <td>Helen Augusta Blanchard invents the "Apgar System," a precursor to computerized medical diagnosis, which assigns numerical values to various aspects of a patient's health.</td> </tr>
@@ -53,8 +62,8 @@
         
         
         <p>This timeline reflects just a fraction of the incredible achievements of women in computing. As we move forward, let's continue to celebrate their accomplishments and work towards a future where the contributions of all individuals are recognized and valued in the tech industry.</p>
-        
-        
+        </section>
+        <section>
         <h2>Professional Organizations</h2>
         
         <p>In the pursuit of fostering diversity and inclusion within the computing industry, two prominent organizations stand out: the National Center for Women &amp; Information Technology (NCWIT) and the ACM-W (Association for Computing Machinery - Women in Computing). These organizations are dedicated to empowering and supporting women at every stage of their computing careers.</p>
@@ -65,8 +74,9 @@
   <p> <a href="https://women.acm.org/">ACM-W</a>  ACM-W is the women's community of the ACM, the world's largest educational and scientific computing society. ACM-W focuses on advancing the understanding of women's contributions to computing and providing a supportive network for women in the field. They organize conferences, events, and activities that promote networking, skill development, and knowledge sharing. By recognizing the importance of diversity in computing, ACM-W actively contributes to a richer and more vibrant computing community.</p>
 
   <p> Both NCWIT and ACM-W play crucial roles in promoting gender diversity and equality in computing. Their efforts are not only shaping the industry today but also paving the way for a more inclusive and innovative future. We encourage you to explore their programs and events, and consider getting involved to make a difference in the world of computing.</p>
-
-        Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.
+        </section>
+        <footer>
+        Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.</footer>
         
         
         
