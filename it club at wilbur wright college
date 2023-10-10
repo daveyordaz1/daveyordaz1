@@ -51,6 +51,120 @@
    <footer>
         <p>Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.</p>
     </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@charset "UTF-8";
+@import url (file:///home/chronos/u-ddadf707375b8dcf3d5a7d2b74ae651e0d27a116/MyFiles/ewic/Ordaz_d_3.zip/it%20club%20at%20wilbur%20wright%20college%20(3).html)
+
+body {
+    background-color: #E7E6EF;
+    color: #264051;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    padding: 0 2em;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 {
+    font-size: 250%;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+h3 {
+    font-size: 150%;
+    border-bottom: 1px solid #264051;
+}
+
+header {
+    background-color: #f18390;
+    padding: 4em;
+    margin: 0;
+    border: 1px solid #943172;
+    text-align: center;
+}
+
+img {
+    border: 1px solid #417779;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    border: 1px solid #f18390;
+    border-collapse: collapse;
+}
+
+
+table th {
+    font-size: 125%;
+    color: white;
+    background-color: white;
+    text-align: center;
+}
+
+
+table th {
+    text-align: center;
+}
+
+tr, td {
+    border: 1px solid #f18390;
+}
+
+td {
+    padding: 0.5em;
+}
+
+footer {
+    background-color: #417779;
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+section {
+    border-bottom: 1px ridge #828282;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         
 </body>
 </html>
