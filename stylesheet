@@ -1,45 +1,77 @@
 body {
-  background-color: #E7E6EF;
-  color: #264051;
-  font-family: Verdana, Arial, sans-serif;
-  font-size: 12px;
-  padding: 0 2em; /* Padding on the right and left sides equivalent to two lowercase letter m's */
+    background-color: #E7E6EF;
+    color: #264051;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    padding: 0 2em;
 }
 
 h1, h2, h3 {
-  font-family: Georgia, "Times New Roman", serif;
+    font-family: Georgia, "Times New Roman", serif;
 }
 
 h1 {
-  font-size: 250%;
+    font-size: 250%;
 }
 
 h2 {
-  font-size: 200%;
+    font-size: 200%;
 }
 
 h3 {
-  font-size: 150%;
-  border-bottom: 1px solid #264051; /* Border color same as body text */
+    font-size: 150%;
+    border-bottom: 1px solid #264051;
+}
+
+header {
+    background-color: #f18390;
+    padding: 4em;
+    margin: 0;
+    border: 1px solid #943172;
+    text-align: center;
 }
 
 img {
-  border: 1px solid #417779;
+    border: 1px solid #417779;
 }
 
 table {
-  width: 50%;
-  margin: auto;
-  border: 1px solid #f18390; /* Table border color */
-  border-collapse: collapse; /* Eliminate extra space between table cells */
+    width: 50%;
+    margin: auto;
+    border: 1px solid #f18390;
+    border-collapse: collapse;
 }
 
+
+table th {
+    font-size: 125%;
+    color: white;
+    background-color: white;
+    text-align: center;
+}
+
+
+table th {
+    text-align: center;
+}
 
 tr, td {
-  border: 1px solid #f18390;
+    border: 1px solid #f18390;
 }
 
-
 td {
-  padding: 0.5em;
+    padding: 0.5em;
+}
+
+footer {
+    background-color: #417779;
+    padding: 1em;
+    margin: 0;
+    text-align: center;
+    color: white;
+}
+
+section {
+    border-bottom: 1px ridge #828282;
+    padding-bottom: 20px;
 }
