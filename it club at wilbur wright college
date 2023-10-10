@@ -6,7 +6,10 @@
         <title>IT Club at Wilbur Wright College</title>
     </head>
     <body>
+        <header>
        <h1>IT Club at Wilbur Wright College</h1>
+        </header>
+        <article>
   <p>Thank you for your interest in joining the IT Club at Wilbur Wright College, one of the City Colleges of Chicago. Our club meets on Thursdays from 1-3pm in room L-125.</p>
 
   <h2>Join the IT Club</h2>
@@ -44,6 +47,10 @@
 
     <input type="submit" value="Submit">
   </form>
+        </article>
+   <footer>
+        <p>Created by Davey Ordaz for CIS 181 Web Development I at Wilbur Wright College, one of the City Colleges of Chicago.</p>
+    </footer>
+        
 </body>
 </html>
-
